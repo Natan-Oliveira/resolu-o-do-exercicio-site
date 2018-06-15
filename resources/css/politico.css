@@ -5,44 +5,42 @@
 
 #cabecalho, #rodape {
     width: 1400px;
-    height: 100px;
-    background-color: aqua;
+    height: 375px;
+    
 }
 
 #corpo {
     width: 1400px;
     height: 800px;
-    background-color: pink;
+ 
 }
 
 #menu-superior {
     width: 1400px;
-    height: 80px;
-    background-color: brown;
+    height:375px;
+  
 }
 
 #menu-lateral{
     width: 300px;
     height: 800px;
     float: left;
-    background-color: purple;
 }
 
 #conteudo{
     width: 900px;
     height: 800px;
     float: left;
-    background-color: chocolate;
+    background-color: white;
 }
 
 #feeds{
     width: 200px;
     height: 800px;
     float: left;
-    background-color: lightcoral;
 }
 
 #container{
     margin: auto;
-    width: 1400px;
+    width: 1600px;
 }
